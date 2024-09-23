@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Obsidian
+Categories=Office;
+Exec='/home/fox/.local/bin/Obsidian.AppImage'
+Type=Application
+StartupNotify=false
+Icon='/home/fox/.local/bin/md.obsidian.Obsidian.png'
+Actions=Server;Update;Saves;Notes;
+MimeType=x-scheme-handler/obsidian;
